@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/global styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="banner">
+  <h1>CossiePlay</h1>
+</div>
+<div id="nav_bar">
+  <h2>| <a href="../index.html">Home</a> | <a href="../whatiscosplay.html">What is cosplay?</a> | <a href="../announcements.html">Announcements</a> | 
+  <br>| <a href="../partyguidelines.html">Party Guidelines</a> | <a href="../secondhandcostumes.html">Second hand Costumes</a> | 
+  <br>| <a href="../contacts.html">Sign up & Contact Information</a> |</h2>
+</div>
+<div id="content"><!-- TemplateBeginEditable name="CONTENT" -->
+  <p>Body</p>
+<!-- TemplateEndEditable --></div>
+<div id="footer">
+  <p>© Copyright CossiePlay, 2016.</p>
+</div>
+</body>
+</html>
